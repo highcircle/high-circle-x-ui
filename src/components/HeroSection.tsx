@@ -26,14 +26,17 @@ const HeroSection: React.FC = () => {
         alt="Rotating Cube"
         sx={{
           position: "absolute",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
           opacity: 0.7,
           animation: "rotateCube 10s linear infinite",
           "@keyframes rotateCube": {
             from: {
-              transform: "rotate(0deg)",
+              transform: "translate(-50%, -50%) rotate(0deg)",
             },
             to: {
-              transform: "rotate(360deg)",
+              transform: "translate(-50%, -50%) rotate(360deg)",
             },
           },
         }}
