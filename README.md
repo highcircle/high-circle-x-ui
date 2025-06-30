@@ -1,31 +1,33 @@
-# High Circle X Landing Page
+# High Circle | X
 
-## Project Info
-
-A modern, responsive landing page for High Circle X — a fintech platform focused on equity investments.
+A modern, responsive landing page for High Circle X, a fintech platform revolutionizing equity investments.
 
 Built with:
 
-- Vite
-- TypeScript
-- React
-- Material UI (MUI)
-- Zustand
+Vite
+React + TypeScript
+Material UI (MUI)
+Zustand for state management
+📦 Getting Started
 
-## 🛠 Getting Started
+Follow these steps to set up and run the project locally:
 
-To run the project locally:
-
-```bash
-# Step 1: Clone the repository
+# 1️⃣ Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate into the project directory
+# 2️⃣ Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
-# Step 4: Start the development server
+# 4️⃣ Start the development server
 npm run dev
-```
+The app will be available at http://localhost:5173 by default.
+
+🌟 Features
+
+Responsive, modern design
+Built with MUI for consistent, accessible UI components
+Simple state management using Zustand
+Ready to extend for further fintech integrations
