@@ -1,4 +1,4 @@
-# High Circle X Landing Page
+# High Circle | X 
 
 ## Project Info
 
